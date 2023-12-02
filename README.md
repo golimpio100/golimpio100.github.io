@@ -1,4 +1,4 @@
 # Griffin Olimpio and Duke Glenn
-# Monthly Counts of Deaths by Select Causes, 2014-2019
+# US Business Dynamics and the S&P 500 Index 2000-2018
 # https://golimpio100.github.io/
 
